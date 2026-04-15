@@ -1,0 +1,16 @@
+{
+  "scenario_label": "custom",
+  "run_all_scenarios": true,
+  "custom_overrides": {
+    "MobilityGrowth": {
+      "2026": 0.08,
+      "2027": 0.05,
+      "2028": 0.04
+    },
+    "InterestRate": {
+      "2026": 0.05,
+      "2027": 0.052,
+      "2028": 0.051
+    }
+  }
+}

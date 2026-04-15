@@ -1,0 +1,8 @@
+{
+  "scenario_label": "custom",
+  "run_all_scenarios": true,
+  "custom_overrides": {},
+  "custom_overrides_normalized": {},
+  "alias_messages": [],
+  "ignored_keys": []
+}

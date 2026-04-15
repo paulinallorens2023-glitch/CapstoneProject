@@ -1,0 +1,775 @@
+RunID,Scenario,Statement,LineItem,Year,Value_BillionsUSD
+ATT_20260415_202355_UTC,base,income_statement,Revenue,2026,127.13482
+ATT_20260415_202355_UTC,base,income_statement,Revenue,2027,128.461427225
+ATT_20260415_202355_UTC,base,income_statement,Revenue,2028,129.562227982875
+ATT_20260415_202355_UTC,base,income_statement,COGS,2026,73.1025215
+ATT_20260415_202355_UTC,base,income_statement,COGS,2027,73.47993637269998
+ATT_20260415_202355_UTC,base,income_statement,COGS,2028,73.85046995023873
+ATT_20260415_202355_UTC,base,income_statement,Gross Profit,2026,54.0322985
+ATT_20260415_202355_UTC,base,income_statement,Gross Profit,2027,54.981490852300006
+ATT_20260415_202355_UTC,base,income_statement,Gross Profit,2028,55.71175803263625
+ATT_20260415_202355_UTC,base,income_statement,SG&A,2026,29.49527824
+ATT_20260415_202355_UTC,base,income_statement,SG&A,2027,29.674589688974997
+ATT_20260415_202355_UTC,base,income_statement,SG&A,2028,29.79931243606125
+ATT_20260415_202355_UTC,base,income_statement,Other OpEx,2026,-20.59584084
+ATT_20260415_202355_UTC,base,income_statement,Other OpEx,2027,-20.553828355999986
+ATT_20260415_202355_UTC,base,income_statement,Other OpEx,2028,-20.729956477259993
+ATT_20260415_202355_UTC,base,income_statement,EBITDA,2026,45.1328611
+ATT_20260415_202355_UTC,base,income_statement,EBITDA,2027,45.86072951932499
+ATT_20260415_202355_UTC,base,income_statement,EBITDA,2028,46.642402073834994
+ATT_20260415_202355_UTC,base,income_statement,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,base,income_statement,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,base,income_statement,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,base,income_statement,EBIT,2026,24.28275062
+ATT_20260415_202355_UTC,base,income_statement,EBIT,2027,24.92151688164999
+ATT_20260415_202355_UTC,base,income_statement,EBIT,2028,25.65332114060924
+ATT_20260415_202355_UTC,base,income_statement,Interest Expense,2026,7.100822908854169
+ATT_20260415_202355_UTC,base,income_statement,Interest Expense,2027,6.176159740301962
+ATT_20260415_202355_UTC,base,income_statement,Interest Expense,2028,5.513305954805214
+ATT_20260415_202355_UTC,base,income_statement,Pretax Income,2026,17.181927711145832
+ATT_20260415_202355_UTC,base,income_statement,Pretax Income,2027,18.74535714134803
+ATT_20260415_202355_UTC,base,income_statement,Pretax Income,2028,20.140015185804028
+ATT_20260415_202355_UTC,base,income_statement,Taxes,2026,3.5222951807848952
+ATT_20260415_202355_UTC,base,income_statement,Taxes,2027,3.842798213976346
+ATT_20260415_202355_UTC,base,income_statement,Taxes,2028,4.128703113089825
+ATT_20260415_202355_UTC,base,income_statement,Net Income,2026,13.659632530360938
+ATT_20260415_202355_UTC,base,income_statement,Net Income,2027,14.902558927371684
+ATT_20260415_202355_UTC,base,income_statement,Net Income,2028,16.011312072714205
+ATT_20260415_202355_UTC,base,balance_sheet,Cash,2026,26.485068216734994
+ATT_20260415_202355_UTC,base,balance_sheet,Cash,2027,19.055652562066776
+ATT_20260415_202355_UTC,base,balance_sheet,Cash,2028,16.006380061447786
+ATT_20260415_202355_UTC,base,balance_sheet,Accounts Receivable,2026,9.926965397260275
+ATT_20260415_202355_UTC,base,balance_sheet,Accounts Receivable,2027,9.854575239178082
+ATT_20260415_202355_UTC,base,balance_sheet,Accounts Receivable,2028,9.761537724737156
+ATT_20260415_202355_UTC,base,balance_sheet,Inventory,2026,4.506319818493151
+ATT_20260415_202355_UTC,base,balance_sheet,Inventory,2027,4.428927671779177
+ATT_20260415_202355_UTC,base,balance_sheet,Inventory,2028,4.350096175151049
+ATT_20260415_202355_UTC,base,balance_sheet,Other Current Assets,2026,18.05314444
+ATT_20260415_202355_UTC,base,balance_sheet,Other Current Assets,2027,18.113061238724995
+ATT_20260415_202355_UTC,base,balance_sheet,Other Current Assets,2028,18.1387119176025
+ATT_20260415_202355_UTC,base,balance_sheet,Net PP&E,2026,154.201
+ATT_20260415_202355_UTC,base,balance_sheet,Net PP&E,2027,154.07253857277502
+ATT_20260415_202355_UTC,base,balance_sheet,Net PP&E,2028,153.8134141168093
+ATT_20260415_202355_UTC,base,balance_sheet,Goodwill & Intangibles,2026,67.99221
+ATT_20260415_202355_UTC,base,balance_sheet,Goodwill & Intangibles,2027,67.3122879
+ATT_20260415_202355_UTC,base,balance_sheet,Goodwill & Intangibles,2028,66.639165021
+ATT_20260415_202355_UTC,base,balance_sheet,Other Non-Current Assets,2026,146.7426
+ATT_20260415_202355_UTC,base,balance_sheet,Other Non-Current Assets,2027,146.008887
+ATT_20260415_202355_UTC,base,balance_sheet,Other Non-Current Assets,2028,145.278842565
+ATT_20260415_202355_UTC,base,balance_sheet,Total Assets,2026,427.9073078724884
+ATT_20260415_202355_UTC,base,balance_sheet,Total Assets,2027,418.84593018452404
+ATT_20260415_202355_UTC,base,balance_sheet,Total Assets,2028,413.9881475817478
+ATT_20260415_202355_UTC,base,balance_sheet,Accounts Payable,2026,65.49184802876712
+ATT_20260415_202355_UTC,base,balance_sheet,Accounts Payable,2027,65.42734060582875
+ATT_20260415_202355_UTC,base,balance_sheet,Accounts Payable,2028,65.35260765459483
+ATT_20260415_202355_UTC,base,balance_sheet,Short-Term Debt,2026,7.705474374538765
+ATT_20260415_202355_UTC,base,balance_sheet,Short-Term Debt,2027,6.834194809868802
+ATT_20260415_202355_UTC,base,balance_sheet,Short-Term Debt,2028,6.145010402745957
+ATT_20260415_202355_UTC,base,balance_sheet,Long-Term Debt,2026,141.07320330035876
+ATT_20260415_202355_UTC,base,balance_sheet,Long-Term Debt,2027,125.12166116503225
+ATT_20260415_202355_UTC,base,balance_sheet,Long-Term Debt,2028,112.50394974952992
+ATT_20260415_202355_UTC,base,balance_sheet,Total Debt,2026,148.77867767489752
+ATT_20260415_202355_UTC,base,balance_sheet,Total Debt,2027,131.95585597490106
+ATT_20260415_202355_UTC,base,balance_sheet,Total Debt,2028,118.64896015227588
+ATT_20260415_202355_UTC,base,balance_sheet,Other Liabilities,2026,94.63481
+ATT_20260415_202355_UTC,base,balance_sheet,Other Liabilities,2027,93.22117490000004
+ATT_20260415_202355_UTC,base,balance_sheet,Other Liabilities,2028,91.81800758600006
+ATT_20260415_202355_UTC,base,balance_sheet,Total Liabilities,2026,308.90533570366466
+ATT_20260415_202355_UTC,base,balance_sheet,Total Liabilities,2027,290.60437148072987
+ATT_20260415_202355_UTC,base,balance_sheet,Total Liabilities,2028,275.8195753928708
+ATT_20260415_202355_UTC,base,balance_sheet,Retained Earnings,2026,24.236972168823783
+ATT_20260415_202355_UTC,base,balance_sheet,Retained Earnings,2027,33.476558703794225
+ATT_20260415_202355_UTC,base,balance_sheet,Retained Earnings,2028,43.40357218887703
+ATT_20260415_202355_UTC,base,balance_sheet,Equity,2026,119.0019721688238
+ATT_20260415_202355_UTC,base,balance_sheet,Equity,2027,128.24155870379423
+ATT_20260415_202355_UTC,base,balance_sheet,Equity,2028,138.16857218887702
+ATT_20260415_202355_UTC,base,balance_sheet,Total Liabilities & Equity,2026,427.90730787248845
+ATT_20260415_202355_UTC,base,balance_sheet,Total Liabilities & Equity,2027,418.84593018452404
+ATT_20260415_202355_UTC,base,balance_sheet,Total Liabilities & Equity,2028,413.9881475817478
+ATT_20260415_202355_UTC,base,cash_flow,Net Income,2026,13.659632530360938
+ATT_20260415_202355_UTC,base,cash_flow,Net Income,2027,14.902558927371684
+ATT_20260415_202355_UTC,base,cash_flow,Net Income,2028,16.011312072714205
+ATT_20260415_202355_UTC,base,cash_flow,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,base,cash_flow,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,base,cash_flow,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,base,cash_flow,Change in Working Capital,2026,24.989418373013695
+ATT_20260415_202355_UTC,base,cash_flow,Change in Working Capital,2027,0.025358083132795334
+ATT_20260415_202355_UTC,base,cash_flow,Change in Working Capital,2028,0.07148538095763779
+ATT_20260415_202355_UTC,base,cash_flow,CFO,2026,59.499161383374634
+ATT_20260415_202355_UTC,base,cash_flow,CFO,2027,35.86712964817948
+ATT_20260415_202355_UTC,base,cash_flow,CFO,2028,37.071878386897595
+ATT_20260415_202355_UTC,base,cash_flow,Capex,2026,20.85011048
+ATT_20260415_202355_UTC,base,cash_flow,Capex,2027,20.810751210449997
+ATT_20260415_202355_UTC,base,cash_flow,Capex,2028,20.72995647726
+ATT_20260415_202355_UTC,base,cash_flow,CFI,2026,-20.85011048
+ATT_20260415_202355_UTC,base,cash_flow,CFI,2027,-20.810751210449997
+ATT_20260415_202355_UTC,base,cash_flow,CFI,2028,-20.72995647726
+ATT_20260415_202355_UTC,base,cash_flow,New Borrowing,2026,0.0
+ATT_20260415_202355_UTC,base,cash_flow,New Borrowing,2027,0.0
+ATT_20260415_202355_UTC,base,cash_flow,New Borrowing,2028,0.0
+ATT_20260415_202355_UTC,base,cash_flow,Mandatory Debt Repayment,2026,3.47972
+ATT_20260415_202355_UTC,base,cash_flow,Mandatory Debt Repayment,2027,3.7194669418724384
+ATT_20260415_202355_UTC,base,cash_flow,Mandatory Debt Repayment,2028,3.958675679247032
+ATT_20260415_202355_UTC,base,cash_flow,Optional Debt Repayment,2026,21.727602325102485
+ATT_20260415_202355_UTC,base,cash_flow,Optional Debt Repayment,2027,13.103354758124024
+ATT_20260415_202355_UTC,base,cash_flow,Optional Debt Repayment,2028,9.348220143378162
+ATT_20260415_202355_UTC,base,cash_flow,Net Debt Issuance,2026,-25.207322325102485
+ATT_20260415_202355_UTC,base,cash_flow,Net Debt Issuance,2027,-16.82282169999646
+ATT_20260415_202355_UTC,base,cash_flow,Net Debt Issuance,2028,-13.306895822625195
+ATT_20260415_202355_UTC,base,cash_flow,Dividends,2026,5.190660361537156
+ATT_20260415_202355_UTC,base,cash_flow,Dividends,2027,5.66297239240124
+ATT_20260415_202355_UTC,base,cash_flow,Dividends,2028,6.084298587631397
+ATT_20260415_202355_UTC,base,cash_flow,CFF,2026,-30.39798268663964
+ATT_20260415_202355_UTC,base,cash_flow,CFF,2027,-22.4857940923977
+ATT_20260415_202355_UTC,base,cash_flow,CFF,2028,-19.391194410256592
+ATT_20260415_202355_UTC,base,cash_flow,Delta Cash,2026,8.251068216734993
+ATT_20260415_202355_UTC,base,cash_flow,Delta Cash,2027,-7.429415654668217
+ATT_20260415_202355_UTC,base,cash_flow,Delta Cash,2028,-3.049272500618992
+ATT_20260415_202355_UTC,base,cash_flow,Ending Cash,2026,26.485068216734994
+ATT_20260415_202355_UTC,base,cash_flow,Ending Cash,2027,19.055652562066776
+ATT_20260415_202355_UTC,base,cash_flow,Ending Cash,2028,16.006380061447786
+ATT_20260415_202355_UTC,downside,income_statement,Revenue,2026,120.85242
+ATT_20260415_202355_UTC,downside,income_statement,Revenue,2027,116.079365975
+ATT_20260415_202355_UTC,downside,income_statement,Revenue,2028,111.282079970375
+ATT_20260415_202355_UTC,downside,income_statement,COGS,2026,70.21525602
+ATT_20260415_202355_UTC,downside,income_statement,COGS,2027,67.09387353355
+ATT_20260415_202355_UTC,downside,income_statement,COGS,2028,64.098478062936
+ATT_20260415_202355_UTC,downside,income_statement,Gross Profit,2026,50.63716398
+ATT_20260415_202355_UTC,downside,income_statement,Gross Profit,2027,48.985492441450006
+ATT_20260415_202355_UTC,downside,income_statement,Gross Profit,2028,47.183601907439005
+ATT_20260415_202355_UTC,downside,income_statement,SG&A,2026,28.4003187
+ATT_20260415_202355_UTC,downside,income_statement,SG&A,2027,27.162571638150002
+ATT_20260415_202355_UTC,downside,income_statement,SG&A,2028,25.928724633097378
+ATT_20260415_202355_UTC,downside,income_statement,Other OpEx,2026,-19.21553478
+ATT_20260415_202355_UTC,downside,income_statement,Other OpEx,2027,-18.224460458074997
+ATT_20260415_202355_UTC,downside,income_statement,Other OpEx,2028,-17.471286555348872
+ATT_20260415_202355_UTC,downside,income_statement,EBITDA,2026,41.45238006
+ATT_20260415_202355_UTC,downside,income_statement,EBITDA,2027,40.047381261375
+ATT_20260415_202355_UTC,downside,income_statement,EBITDA,2028,38.7261638296905
+ATT_20260415_202355_UTC,downside,income_statement,D&A,2026,19.81979688
+ATT_20260415_202355_UTC,downside,income_statement,D&A,2027,18.920936653925
+ATT_20260415_202355_UTC,downside,income_statement,D&A,2028,18.027696955200753
+ATT_20260415_202355_UTC,downside,income_statement,EBIT,2026,21.63258318
+ATT_20260415_202355_UTC,downside,income_statement,EBIT,2027,21.12644460745
+ATT_20260415_202355_UTC,downside,income_statement,EBIT,2028,20.698466874489746
+ATT_20260415_202355_UTC,downside,income_statement,Interest Expense,2026,7.719053622432471
+ATT_20260415_202355_UTC,downside,income_statement,Interest Expense,2027,6.929711237159228
+ATT_20260415_202355_UTC,downside,income_statement,Interest Expense,2028,6.347659535254932
+ATT_20260415_202355_UTC,downside,income_statement,Pretax Income,2026,13.91352955756753
+ATT_20260415_202355_UTC,downside,income_statement,Pretax Income,2027,14.196733370290772
+ATT_20260415_202355_UTC,downside,income_statement,Pretax Income,2028,14.350807339234814
+ATT_20260415_202355_UTC,downside,income_statement,Taxes,2026,2.8522735593013433
+ATT_20260415_202355_UTC,downside,income_statement,Taxes,2027,2.9103303409096077
+ATT_20260415_202355_UTC,downside,income_statement,Taxes,2028,2.9419155045431364
+ATT_20260415_202355_UTC,downside,income_statement,Net Income,2026,11.061255998266185
+ATT_20260415_202355_UTC,downside,income_statement,Net Income,2027,11.286403029381164
+ATT_20260415_202355_UTC,downside,income_statement,Net Income,2028,11.408891834691676
+ATT_20260415_202355_UTC,downside,balance_sheet,Cash,2026,28.891843088106352
+ATT_20260415_202355_UTC,downside,balance_sheet,Cash,2027,20.998132291263833
+ATT_20260415_202355_UTC,downside,balance_sheet,Cash,2028,16.78055259102146
+ATT_20260415_202355_UTC,downside,balance_sheet,Accounts Receivable,2026,9.933075616438357
+ATT_20260415_202355_UTC,downside,balance_sheet,Accounts Receivable,2027,9.381756976061643
+ATT_20260415_202355_UTC,downside,balance_sheet,Accounts Receivable,2028,8.841589915454453
+ATT_20260415_202355_UTC,downside,balance_sheet,Inventory,2026,4.52070826430137
+ATT_20260415_202355_UTC,downside,balance_sheet,Inventory,2027,4.227833126771643
+ATT_20260415_202355_UTC,downside,balance_sheet,Inventory,2028,3.9512760449755064
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Current Assets,2026,17.16104364
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Current Assets,2027,16.367190602475
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Current Assets,2028,15.579491195852501
+ATT_20260415_202355_UTC,downside,balance_sheet,Net PP&E,2026,153.5967379
+ATT_20260415_202355_UTC,downside,balance_sheet,Net PP&E,2027,152.90026170415
+ATT_20260415_202355_UTC,downside,balance_sheet,Net PP&E,2028,152.12128714435738
+ATT_20260415_202355_UTC,downside,balance_sheet,Goodwill & Intangibles,2026,67.99221
+ATT_20260415_202355_UTC,downside,balance_sheet,Goodwill & Intangibles,2027,67.3122879
+ATT_20260415_202355_UTC,downside,balance_sheet,Goodwill & Intangibles,2028,66.639165021
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Non-Current Assets,2026,146.7426
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Non-Current Assets,2027,146.008887
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Non-Current Assets,2028,145.278842565
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Assets,2026,428.83821850884607
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Assets,2027,417.19634960072216
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Assets,2028,409.19220447766133
+ATT_20260415_202355_UTC,downside,balance_sheet,Accounts Payable,2026,62.328062878027396
+ATT_20260415_202355_UTC,downside,balance_sheet,Accounts Payable,2027,59.18966377480301
+ATT_20260415_202355_UTC,downside,balance_sheet,Accounts Payable,2028,56.19592597298499
+ATT_20260415_202355_UTC,downside,balance_sheet,Short-Term Debt,2026,8.000980712488785
+ATT_20260415_202355_UTC,downside,balance_sheet,Short-Term Debt,2027,7.271372567589439
+ATT_20260415_202355_UTC,downside,balance_sheet,Short-Term Debt,2028,6.718200100924553
+ATT_20260415_202355_UTC,downside,balance_sheet,Long-Term Debt,2026,146.48338619940483
+ATT_20260415_202355_UTC,downside,balance_sheet,Long-Term Debt,2027,133.12558976118828
+ATT_20260415_202355_UTC,downside,balance_sheet,Long-Term Debt,2028,122.99800928310157
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Debt,2026,154.48436691189366
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Debt,2027,140.39696232877773
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Debt,2028,129.71620938402612
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Liabilities,2026,94.63480999999999
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Liabilities,2027,93.2211749000001
+ATT_20260415_202355_UTC,downside,balance_sheet,Other Liabilities,2028,91.818007586
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Liabilities,2026,311.447239789921
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Liabilities,2027,292.80780100358083
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Liabilities,2028,277.7301429430111
+ATT_20260415_202355_UTC,downside,balance_sheet,Retained Earnings,2026,22.625978718925033
+ATT_20260415_202355_UTC,downside,balance_sheet,Retained Earnings,2027,29.623548597141358
+ATT_20260415_202355_UTC,downside,balance_sheet,Retained Earnings,2028,36.6970615346502
+ATT_20260415_202355_UTC,downside,balance_sheet,Equity,2026,117.39097871892503
+ATT_20260415_202355_UTC,downside,balance_sheet,Equity,2027,124.38854859714135
+ATT_20260415_202355_UTC,downside,balance_sheet,Equity,2028,131.46206153465022
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Liabilities & Equity,2026,428.83821850884607
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Liabilities & Equity,2027,417.19634960072216
+ATT_20260415_202355_UTC,downside,balance_sheet,Total Liabilities & Equity,2028,409.19220447766133
+ATT_20260415_202355_UTC,downside,cash_flow,Net Income,2026,11.061255998266185
+ATT_20260415_202355_UTC,downside,cash_flow,Net Income,2027,11.286403029381164
+ATT_20260415_202355_UTC,downside,cash_flow,Net Income,2028,11.408891834691676
+ATT_20260415_202355_UTC,downside,cash_flow,D&A,2026,19.81979688
+ATT_20260415_202355_UTC,downside,cash_flow,D&A,2027,18.920936653925
+ATT_20260415_202355_UTC,downside,cash_flow,D&A,2028,18.027696955200753
+ATT_20260415_202355_UTC,downside,cash_flow,Change in Working Capital,2026,22.697235357287674
+ATT_20260415_202355_UTC,downside,cash_flow,Change in Working Capital,2027,-1.5003522877929496
+ATT_20260415_202355_UTC,downside,cash_flow,Change in Working Capital,2028,-1.3893142527921978
+ATT_20260415_202355_UTC,downside,cash_flow,CFO,2026,53.57828823555386
+ATT_20260415_202355_UTC,downside,cash_flow,CFO,2027,28.706987395513213
+ATT_20260415_202355_UTC,downside,cash_flow,CFO,2028,28.047274537100233
+ATT_20260415_202355_UTC,downside,cash_flow,Capex,2026,19.21553478
+ATT_20260415_202355_UTC,downside,cash_flow,Capex,2027,18.224460458075
+ATT_20260415_202355_UTC,downside,cash_flow,Capex,2028,17.248722395408123
+ATT_20260415_202355_UTC,downside,cash_flow,CFI,2026,-19.21553478
+ATT_20260415_202355_UTC,downside,cash_flow,CFI,2027,-18.224460458075
+ATT_20260415_202355_UTC,downside,cash_flow,CFI,2028,-17.248722395408123
+ATT_20260415_202355_UTC,downside,cash_flow,New Borrowing,2026,0.0
+ATT_20260415_202355_UTC,downside,cash_flow,New Borrowing,2027,0.0
+ATT_20260415_202355_UTC,downside,cash_flow,New Borrowing,2028,0.0
+ATT_20260415_202355_UTC,downside,cash_flow,Mandatory Debt Repayment,2026,2.60979
+ATT_20260415_202355_UTC,downside,cash_flow,Mandatory Debt Repayment,2027,3.089687338237873
+ATT_20260415_202355_UTC,downside,cash_flow,Mandatory Debt Repayment,2028,3.5099240582194433
+ATT_20260415_202355_UTC,downside,cash_flow,Optional Debt Repayment,2026,16.89184308810636
+ATT_20260415_202355_UTC,downside,cash_flow,Optional Debt Repayment,2027,10.997717244878023
+ATT_20260415_202355_UTC,downside,cash_flow,Optional Debt Repayment,2028,7.170828886532192
+ATT_20260415_202355_UTC,downside,cash_flow,Net Debt Issuance,2026,-19.501633088106356
+ATT_20260415_202355_UTC,downside,cash_flow,Net Debt Issuance,2027,-14.087404583115896
+ATT_20260415_202355_UTC,downside,cash_flow,Net Debt Issuance,2028,-10.680752944751637
+ATT_20260415_202355_UTC,downside,cash_flow,Dividends,2026,4.203277279341151
+ATT_20260415_202355_UTC,downside,cash_flow,Dividends,2027,4.288833151164843
+ATT_20260415_202355_UTC,downside,cash_flow,Dividends,2028,4.335378897182838
+ATT_20260415_202355_UTC,downside,cash_flow,CFF,2026,-23.70491036744751
+ATT_20260415_202355_UTC,downside,cash_flow,CFF,2027,-18.37623773428074
+ATT_20260415_202355_UTC,downside,cash_flow,CFF,2028,-15.016131841934476
+ATT_20260415_202355_UTC,downside,cash_flow,Delta Cash,2026,10.657843088106354
+ATT_20260415_202355_UTC,downside,cash_flow,Delta Cash,2027,-7.893710796842521
+ATT_20260415_202355_UTC,downside,cash_flow,Delta Cash,2028,-4.2175797002423705
+ATT_20260415_202355_UTC,downside,cash_flow,Ending Cash,2026,28.891843088106352
+ATT_20260415_202355_UTC,downside,cash_flow,Ending Cash,2027,20.998132291263833
+ATT_20260415_202355_UTC,downside,cash_flow,Ending Cash,2028,16.78055259102146
+ATT_20260415_202355_UTC,upside,income_statement,Revenue,2026,133.41722
+ATT_20260415_202355_UTC,upside,income_statement,Revenue,2027,141.471728475
+ATT_20260415_202355_UTC,upside,income_statement,Revenue,2028,149.744317545375
+ATT_20260415_202355_UTC,upside,income_statement,COGS,2026,76.0478154
+ATT_20260415_202355_UTC,upside,income_statement,COGS,2027,80.214470045325
+ATT_20260415_202355_UTC,upside,income_statement,COGS,2028,84.60553941313687
+ATT_20260415_202355_UTC,upside,income_statement,Gross Profit,2026,57.3694046
+ATT_20260415_202355_UTC,upside,income_statement,Gross Profit,2027,61.257258429675005
+ATT_20260415_202355_UTC,upside,income_statement,Gross Profit,2028,65.13877813223813
+ATT_20260415_202355_UTC,upside,income_statement,SG&A,2026,30.6859606
+ATT_20260415_202355_UTC,upside,income_statement,SG&A,2027,32.397025820775
+ATT_20260415_202355_UTC,upside,income_statement,SG&A,2028,34.1417044003455
+ATT_20260415_202355_UTC,upside,income_statement,Other OpEx,2026,-22.0138413
+ATT_20260415_202355_UTC,upside,income_statement,Other OpEx,2027,-23.059891741424995
+ATT_20260415_202355_UTC,upside,income_statement,Other OpEx,2028,-24.40832375989612
+ATT_20260415_202355_UTC,upside,income_statement,EBITDA,2026,48.6972853
+ATT_20260415_202355_UTC,upside,income_statement,EBITDA,2027,51.920124350325
+ATT_20260415_202355_UTC,upside,income_statement,EBITDA,2028,55.40539749178875
+ATT_20260415_202355_UTC,upside,income_statement,D&A,2026,21.88042408
+ATT_20260415_202355_UTC,upside,income_statement,D&A,2027,23.059891741424998
+ATT_20260415_202355_UTC,upside,income_statement,D&A,2028,24.25857944235075
+ATT_20260415_202355_UTC,upside,income_statement,EBIT,2026,26.81686122
+ATT_20260415_202355_UTC,upside,income_statement,EBIT,2027,28.8602326089
+ATT_20260415_202355_UTC,upside,income_statement,EBIT,2028,31.146818049438
+ATT_20260415_202355_UTC,upside,income_statement,Interest Expense,2026,6.651976734085427
+ATT_20260415_202355_UTC,upside,income_statement,Interest Expense,2027,5.588821744114453
+ATT_20260415_202355_UTC,upside,income_statement,Interest Expense,2028,4.830841255932844
+ATT_20260415_202355_UTC,upside,income_statement,Pretax Income,2026,20.164884485914573
+ATT_20260415_202355_UTC,upside,income_statement,Pretax Income,2027,23.271410864785544
+ATT_20260415_202355_UTC,upside,income_statement,Pretax Income,2028,26.315976793505158
+ATT_20260415_202355_UTC,upside,income_statement,Taxes,2026,4.133801319612488
+ATT_20260415_202355_UTC,upside,income_statement,Taxes,2027,4.770639227281037
+ATT_20260415_202355_UTC,upside,income_statement,Taxes,2028,5.394775242668557
+ATT_20260415_202355_UTC,upside,income_statement,Net Income,2026,16.031083166302086
+ATT_20260415_202355_UTC,upside,income_statement,Net Income,2027,18.50077163750451
+ATT_20260415_202355_UTC,upside,income_statement,Net Income,2028,20.921201550836603
+ATT_20260415_202355_UTC,upside,balance_sheet,Cash,2026,23.512094202603425
+ATT_20260415_202355_UTC,upside,balance_sheet,Cash,2027,17.04399368285151
+ATT_20260415_202355_UTC,upside,balance_sheet,Cash,2028,15.090374747509971
+ATT_20260415_202355_UTC,upside,balance_sheet,Accounts Receivable,2026,10.051982328767124
+ATT_20260415_202355_UTC,upside,balance_sheet,Accounts Receivable,2027,10.465031969383562
+ATT_20260415_202355_UTC,upside,balance_sheet,Accounts Receivable,2028,10.87184771219846
+ATT_20260415_202355_UTC,upside,balance_sheet,Inventory,2026,4.5837039419178085
+ATT_20260415_202355_UTC,upside,balance_sheet,Inventory,2027,4.724961934176679
+ATT_20260415_202355_UTC,upside,balance_sheet,Inventory,2028,4.867715966235273
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Current Assets,2026,18.94524524
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Current Assets,2027,19.947513714975
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Current Assets,2028,20.9642044563525
+ATT_20260415_202355_UTC,upside,balance_sheet,Net PP&E,2026,154.60125166
+ATT_20260415_202355_UTC,upside,balance_sheet,Net PP&E,2027,154.88419511695002
+ATT_20260415_202355_UTC,upside,balance_sheet,Net PP&E,2028,155.03393943449538
+ATT_20260415_202355_UTC,upside,balance_sheet,Goodwill & Intangibles,2026,67.99221
+ATT_20260415_202355_UTC,upside,balance_sheet,Goodwill & Intangibles,2027,67.3122879
+ATT_20260415_202355_UTC,upside,balance_sheet,Goodwill & Intangibles,2028,66.639165021
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Non-Current Assets,2026,146.7426
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Non-Current Assets,2027,146.008887
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Non-Current Assets,2028,145.278842565
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Assets,2026,426.4290873732883
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Assets,2027,420.3868713183368
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Assets,2028,418.74608990279165
+ATT_20260415_202355_UTC,upside,balance_sheet,Accounts Payable,2026,68.54720894958905
+ATT_20260415_202355_UTC,upside,balance_sheet,Accounts Payable,2027,71.86337453375691
+ATT_20260415_202355_UTC,upside,balance_sheet,Accounts Payable,2028,75.33369947745064
+ATT_20260415_202355_UTC,upside,balance_sheet,Short-Term Debt,2026,7.394524240518171
+ATT_20260415_202355_UTC,upside,balance_sheet,Short-Term Debt,2027,6.388980161892027
+ATT_20260415_202355_UTC,upside,balance_sheet,Short-Term Debt,2028,5.525144991332944
+ATT_20260415_202355_UTC,upside,balance_sheet,Long-Term Debt,2026,135.38027262007384
+ATT_20260415_202355_UTC,upside,balance_sheet,Long-Term Debt,2027,116.97059174432773
+ATT_20260415_202355_UTC,upside,balance_sheet,Long-Term Debt,2028,101.15534290812923
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Debt,2026,142.774796860592
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Debt,2027,123.35957190621976
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Debt,2028,106.68048789946218
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Liabilities,2026,94.63480999999997
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Liabilities,2027,93.22117490000007
+ATT_20260415_202355_UTC,upside,balance_sheet,Other Liabilities,2028,91.81800758600006
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Liabilities,2026,305.956815810181
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Liabilities,2027,288.44412133997673
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Liabilities,2028,273.83219496291287
+ATT_20260415_202355_UTC,upside,balance_sheet,Retained Earnings,2026,25.70727156310729
+ATT_20260415_202355_UTC,upside,balance_sheet,Retained Earnings,2027,37.17774997836008
+ATT_20260415_202355_UTC,upside,balance_sheet,Retained Earnings,2028,50.14889493987878
+ATT_20260415_202355_UTC,upside,balance_sheet,Equity,2026,120.4722715631073
+ATT_20260415_202355_UTC,upside,balance_sheet,Equity,2027,131.94274997836007
+ATT_20260415_202355_UTC,upside,balance_sheet,Equity,2028,144.9138949398788
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Liabilities & Equity,2026,426.4290873732883
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Liabilities & Equity,2027,420.3868713183368
+ATT_20260415_202355_UTC,upside,balance_sheet,Total Liabilities & Equity,2028,418.74608990279165
+ATT_20260415_202355_UTC,upside,cash_flow,Net Income,2026,16.031083166302086
+ATT_20260415_202355_UTC,upside,cash_flow,Net Income,2027,18.50077163750451
+ATT_20260415_202355_UTC,upside,cash_flow,Net Income,2028,20.921201550836603
+ATT_20260415_202355_UTC,upside,cash_flow,D&A,2026,21.88042408
+ATT_20260415_202355_UTC,upside,cash_flow,D&A,2027,23.059891741424998
+ATT_20260415_202355_UTC,upside,cash_flow,D&A,2028,24.25857944235075
+ATT_20260415_202355_UTC,upside,cash_flow,Change in Working Capital,2026,26.95027743890411
+ATT_20260415_202355_UTC,upside,cash_flow,Change in Working Capital,2027,1.759589476317563
+ATT_20260415_202355_UTC,upside,cash_flow,Change in Working Capital,2028,1.9040644274427319
+ATT_20260415_202355_UTC,upside,cash_flow,CFO,2026,64.86178468520619
+ATT_20260415_202355_UTC,upside,cash_flow,CFO,2027,43.32025285524707
+ATT_20260415_202355_UTC,upside,cash_flow,CFO,2028,47.083845420630084
+ATT_20260415_202355_UTC,upside,cash_flow,Capex,2026,22.28067574
+ATT_20260415_202355_UTC,upside,cash_flow,Capex,2027,23.342835198375
+ATT_20260415_202355_UTC,upside,cash_flow,Capex,2028,24.408323759896128
+ATT_20260415_202355_UTC,upside,cash_flow,CFI,2026,-22.28067574
+ATT_20260415_202355_UTC,upside,cash_flow,CFI,2027,-23.342835198375
+ATT_20260415_202355_UTC,upside,cash_flow,CFI,2028,-24.408323759896128
+ATT_20260415_202355_UTC,upside,cash_flow,New Borrowing,2026,0.0
+ATT_20260415_202355_UTC,upside,cash_flow,New Borrowing,2027,0.0
+ATT_20260415_202355_UTC,upside,cash_flow,New Borrowing,2028,0.0
+ATT_20260415_202355_UTC,upside,cash_flow,Mandatory Debt Repayment,2026,4.34965
+ATT_20260415_202355_UTC,upside,cash_flow,Mandatory Debt Repayment,2027,4.28324390581776
+ATT_20260415_202355_UTC,upside,cash_flow,Mandatory Debt Repayment,2028,4.3175850167176915
+ATT_20260415_202355_UTC,upside,cash_flow,Optional Debt Repayment,2026,26.861553139407977
+ATT_20260415_202355_UTC,upside,cash_flow,Optional Debt Repayment,2027,15.131981048554511
+ATT_20260415_202355_UTC,upside,cash_flow,Optional Debt Repayment,2028,12.361498990039893
+ATT_20260415_202355_UTC,upside,cash_flow,Net Debt Issuance,2026,-31.211203139407978
+ATT_20260415_202355_UTC,upside,cash_flow,Net Debt Issuance,2027,-19.415224954372274
+ATT_20260415_202355_UTC,upside,cash_flow,Net Debt Issuance,2028,-16.679084006757584
+ATT_20260415_202355_UTC,upside,cash_flow,Dividends,2026,6.091811603194793
+ATT_20260415_202355_UTC,upside,cash_flow,Dividends,2027,7.030293222251713
+ATT_20260415_202355_UTC,upside,cash_flow,Dividends,2028,7.950056589317908
+ATT_20260415_202355_UTC,upside,cash_flow,CFF,2026,-37.30301474260277
+ATT_20260415_202355_UTC,upside,cash_flow,CFF,2027,-26.445518176623985
+ATT_20260415_202355_UTC,upside,cash_flow,CFF,2028,-24.629140596075494
+ATT_20260415_202355_UTC,upside,cash_flow,Delta Cash,2026,5.278094202603424
+ATT_20260415_202355_UTC,upside,cash_flow,Delta Cash,2027,-6.468100519751915
+ATT_20260415_202355_UTC,upside,cash_flow,Delta Cash,2028,-1.9536189353415374
+ATT_20260415_202355_UTC,upside,cash_flow,Ending Cash,2026,23.512094202603425
+ATT_20260415_202355_UTC,upside,cash_flow,Ending Cash,2027,17.04399368285151
+ATT_20260415_202355_UTC,upside,cash_flow,Ending Cash,2028,15.090374747509971
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Revenue,2026,127.13482
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Revenue,2027,128.461427225
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Revenue,2028,129.562227982875
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,COGS,2026,74.3738697
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,COGS,2027,74.76455064494998
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,COGS,2028,75.1460922300675
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Gross Profit,2026,52.7609503
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Gross Profit,2027,53.69687658005
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Gross Profit,2028,54.41613575280749
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,SG&A,2026,30.003817520000005
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,SG&A,2027,30.188435397875
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,SG&A,2028,30.317561347992747
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Other OpEx,2026,-20.087301559999997
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Other OpEx,2027,-20.03998264709999
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Other OpEx,2028,-20.211707565328496
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,EBITDA,2026,42.84443433999999
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,EBITDA,2027,43.548423829274995
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,EBITDA,2028,44.310281970143244
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,EBIT,2026,21.99432385999999
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,EBIT,2027,22.609211191599993
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,EBIT,2028,23.321201036917493
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Interest Expense,2026,7.2241103398971855
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Interest Expense,2027,6.44704906980016
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Interest Expense,2028,5.811253489938437
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Pretax Income,2026,14.770213520102805
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Pretax Income,2027,16.162162121799835
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Pretax Income,2028,17.509947546979053
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Taxes,2026,3.027893771621075
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Taxes,2027,3.313243234968966
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Taxes,2028,3.589539247130706
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Net Income,2026,11.742319748481732
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Net Income,2027,12.84891888683087
+ATT_20260415_202355_UTC,energy_cost_strain,income_statement,Net Income,2028,13.920408299848347
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Cash,2026,31.706656672444602
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Cash,2027,23.85805234072935
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Cash,2028,19.381824098123396
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Accounts Receivable,2026,9.926965397260275
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Accounts Receivable,2027,9.854575239178082
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Accounts Receivable,2028,9.761537724737156
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Inventory,2026,4.5846905979452055
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Inventory,2027,4.506356477229862
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Inventory,2028,4.426413651908085
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Current Assets,2026,18.05314444
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Current Assets,2027,18.113061238724995
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Current Assets,2028,18.1387119176025
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Net PP&E,2026,154.45526964
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Net PP&E,2027,154.58373106722502
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Net PP&E,2028,154.58373106722502
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Goodwill & Intangibles,2026,67.99221
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Goodwill & Intangibles,2027,67.3122879
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Goodwill & Intangibles,2028,66.639165021
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Non-Current Assets,2026,146.7426
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Non-Current Assets,2027,146.008887
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Non-Current Assets,2028,145.278842565
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Assets,2026,433.4615367476501
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Assets,2027,424.2369512630873
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Assets,2028,418.21022604559613
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Accounts Payable,2026,66.63083669013699
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Accounts Payable,2027,66.57117523180477
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Accounts Payable,2028,66.49914463099124
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Short-Term Debt,2026,7.995712732582149
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Short-Term Debt,2027,7.181673318321297
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Short-Term Debt,2028,6.49894811041844
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Long-Term Debt,2026,146.38693908087225
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Long-Term Debt,2027,131.48335985906738
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Long-Term Debt,2028,118.98390461838665
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Debt,2026,154.3826518134544
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Debt,2027,138.66503317738866
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Debt,2028,125.48285272880509
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Liabilities,2026,94.63481000000004
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Liabilities,2027,93.22117490000005
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Other Liabilities,2028,91.81800758600005
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Liabilities,2026,315.64829850359143
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Liabilities,2027,298.45738330919346
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Liabilities,2028,283.8000049457964
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Retained Earnings,2026,23.048238244058673
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Retained Earnings,2027,31.01456795389381
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Retained Earnings,2028,39.64522109979979
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Equity,2026,117.81323824405867
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Equity,2027,125.77956795389382
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Equity,2028,134.4102210997998
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Liabilities & Equity,2026,433.4615367476501
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Liabilities & Equity,2027,424.2369512630873
+ATT_20260415_202355_UTC,energy_cost_strain,balance_sheet,Total Liabilities & Equity,2028,418.2102260455962
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Net Income,2026,11.742319748481732
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Net Income,2027,12.84891888683087
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Net Income,2028,13.920408299848347
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Change in Working Capital,2026,26.050036254931502
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Change in Working Capital,2027,0.031146021740327837
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Change in Working Capital,2028,0.07529906007165908
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFO,2026,58.64246648341324
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFO,2027,33.81927754624619
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFO,2028,34.984788293145755
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Capex,2026,21.10438012
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Capex,2027,21.067674064899997
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Capex,2028,20.98908093322575
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFI,2026,-21.10438012
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFI,2027,-21.067674064899997
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFI,2028,-20.98908093322575
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,New Borrowing,2026,0.0
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,New Borrowing,2027,0.0
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,New Borrowing,2028,0.0
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Mandatory Debt Repayment,2026,3.47972
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Mandatory Debt Repayment,2027,3.8595662953363603
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Mandatory Debt Repayment,2028,4.15995099532166
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Optional Debt Repayment,2026,16.12362818654558
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Optional Debt Repayment,2027,11.858052340729358
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Optional Debt Repayment,2028,9.022229453261927
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Net Debt Issuance,2026,-19.603348186545578
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Net Debt Issuance,2027,-15.717618636065719
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Net Debt Issuance,2028,-13.182180448583587
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Dividends,2026,4.4620815044230575
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Dividends,2027,4.88258917699573
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Dividends,2028,5.289755153942371
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFF,2026,-24.065429690968635
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFF,2027,-20.600207813061452
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,CFF,2028,-18.47193560252596
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Delta Cash,2026,13.472656672444604
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Delta Cash,2027,-7.848604331715252
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Delta Cash,2028,-4.476228242605957
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Ending Cash,2026,31.706656672444602
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Ending Cash,2027,23.85805234072935
+ATT_20260415_202355_UTC,energy_cost_strain,cash_flow,Ending Cash,2028,19.381824098123396
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Revenue,2026,127.13482
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Revenue,2027,128.461427225
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Revenue,2028,129.562227982875
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,COGS,2026,73.1025215
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,COGS,2027,73.47993637269998
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,COGS,2028,73.85046995023873
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Gross Profit,2026,54.0322985
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Gross Profit,2027,54.981490852300006
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Gross Profit,2028,55.71175803263625
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,SG&A,2026,29.49527824
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,SG&A,2027,29.674589688974997
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,SG&A,2028,29.79931243606125
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Other OpEx,2026,-20.3415712
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Other OpEx,2027,-20.296905501549986
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Other OpEx,2028,-20.470832021294243
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,EBITDA,2026,44.87859146
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,EBITDA,2027,45.603806664874995
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,EBITDA,2028,46.38327761786924
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,EBIT,2026,24.02848098
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,EBIT,2027,24.664594027199993
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,EBIT,2028,25.39419668464349
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Interest Expense,2026,9.775850182907009
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Interest Expense,2027,8.85619764087395
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Interest Expense,2028,8.039585687337167
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Pretax Income,2026,14.25263079709299
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Pretax Income,2027,15.808396386326043
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Pretax Income,2028,17.35461099730632
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Taxes,2026,2.9217893134040627
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Taxes,2027,3.240721259196839
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Taxes,2028,3.5576952544477956
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Net Income,2026,11.330841483688928
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Net Income,2027,12.567675127129206
+ATT_20260415_202355_UTC,interest_rate_strain,income_statement,Net Income,2028,13.796915742858525
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Cash,2026,33.661292055740496
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Cash,2027,27.01965574021608
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Cash,2028,22.81000660548382
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Accounts Receivable,2026,9.926965397260275
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Accounts Receivable,2027,9.854575239178082
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Accounts Receivable,2028,9.761537724737156
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Inventory,2026,4.506319818493151
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Inventory,2027,4.428927671779177
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Inventory,2028,4.350096175151049
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Current Assets,2026,18.05314444
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Current Assets,2027,18.113061238724995
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Current Assets,2028,18.1387119176025
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Net PP&E,2026,154.201
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Net PP&E,2027,154.07253857277502
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Net PP&E,2028,153.8134141168093
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Goodwill & Intangibles,2026,67.99221
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Goodwill & Intangibles,2027,67.3122879
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Goodwill & Intangibles,2028,66.639165021
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Non-Current Assets,2026,146.7426
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Non-Current Assets,2027,146.008887
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Non-Current Assets,2028,145.278842565
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Assets,2026,435.0835317114939
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Assets,2027,426.80993336267335
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Assets,2028,420.79177412578383
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Accounts Payable,2026,65.49184802876712
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Accounts Payable,2027,65.42734060582875
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Accounts Payable,2028,65.35260765459483
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Short-Term Debt,2026,8.151921154214408
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Short-Term Debt,2027,7.396416738912186
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Short-Term Debt,2028,6.718240572990181
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Long-Term Debt,2026,149.24683080862525
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Long-Term Debt,2027,135.41492081922513
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Long-Term Debt,2028,122.99875025291922
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Debt,2026,157.39875196283967
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Debt,2027,142.81133755813732
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Debt,2028,129.7169908259094
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Liabilities,2026,94.63481000000002
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Liabilities,2027,93.22117490000004
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Other Liabilities,2028,91.81800758600005
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Liabilities,2026,317.5254099916068
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Liabilities,2027,301.4598530639661
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Liabilities,2028,286.88760606650425
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Retained Earnings,2026,22.793121719887136
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Retained Earnings,2027,30.585080298707243
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Retained Earnings,2028,39.13916805927953
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Equity,2026,117.55812171988713
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Equity,2027,125.35008029870724
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Equity,2028,133.90416805927953
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Liabilities & Equity,2026,435.08353171149395
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Liabilities & Equity,2027,426.80993336267335
+ATT_20260415_202355_UTC,interest_rate_strain,balance_sheet,Total Liabilities & Equity,2028,420.79177412578383
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Net Income,2026,11.330841483688928
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Net Income,2027,12.567675127129206
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Net Income,2028,13.796915742858525
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Change in Working Capital,2026,24.989418373013695
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Change in Working Capital,2027,0.025358083132795334
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Change in Working Capital,2028,0.07148538095763779
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFO,2026,57.17037033670262
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFO,2027,33.532245847937006
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFO,2028,34.85748205704191
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Capex,2026,20.85011048
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Capex,2027,20.810751210449997
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Capex,2028,20.72995647726
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFI,2026,-20.85011048
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFI,2027,-20.810751210449997
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFI,2028,-20.72995647726
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,New Borrowing,2026,0.0
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,New Borrowing,2027,0.0
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,New Borrowing,2028,0.0
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Mandatory Debt Repayment,2026,3.47972
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Mandatory Debt Repayment,2027,3.9349687990709916
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Mandatory Debt Repayment,2028,4.2843401267441195
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Optional Debt Repayment,2026,13.10752803716033
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Optional Debt Repayment,2027,10.65244560563134
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Optional Debt Repayment,2028,8.810006605483819
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Net Debt Issuance,2026,-16.58724803716033
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Net Debt Issuance,2027,-14.587414404702331
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Net Debt Issuance,2028,-13.09434673222794
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Dividends,2026,4.305719763801793
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Dividends,2027,4.775716548309099
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Dividends,2028,5.24282798228624
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFF,2026,-20.892967800962126
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFF,2027,-19.363130953011428
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,CFF,2028,-18.33717471451418
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Delta Cash,2026,15.427292055740498
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Delta Cash,2027,-6.641636315524418
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Delta Cash,2028,-4.209649134732258
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Ending Cash,2026,33.661292055740496
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Ending Cash,2027,27.01965574021608
+ATT_20260415_202355_UTC,interest_rate_strain,cash_flow,Ending Cash,2028,22.81000660548382
+ATT_20260415_202355_UTC,custom,income_statement,Revenue,2026,127.13482
+ATT_20260415_202355_UTC,custom,income_statement,Revenue,2027,128.461427225
+ATT_20260415_202355_UTC,custom,income_statement,Revenue,2028,129.562227982875
+ATT_20260415_202355_UTC,custom,income_statement,COGS,2026,73.1025215
+ATT_20260415_202355_UTC,custom,income_statement,COGS,2027,73.47993637269998
+ATT_20260415_202355_UTC,custom,income_statement,COGS,2028,73.85046995023873
+ATT_20260415_202355_UTC,custom,income_statement,Gross Profit,2026,54.0322985
+ATT_20260415_202355_UTC,custom,income_statement,Gross Profit,2027,54.981490852300006
+ATT_20260415_202355_UTC,custom,income_statement,Gross Profit,2028,55.71175803263625
+ATT_20260415_202355_UTC,custom,income_statement,SG&A,2026,29.49527824
+ATT_20260415_202355_UTC,custom,income_statement,SG&A,2027,29.674589688974997
+ATT_20260415_202355_UTC,custom,income_statement,SG&A,2028,29.79931243606125
+ATT_20260415_202355_UTC,custom,income_statement,Other OpEx,2026,-20.59584084
+ATT_20260415_202355_UTC,custom,income_statement,Other OpEx,2027,-20.553828355999986
+ATT_20260415_202355_UTC,custom,income_statement,Other OpEx,2028,-20.729956477259993
+ATT_20260415_202355_UTC,custom,income_statement,EBITDA,2026,45.1328611
+ATT_20260415_202355_UTC,custom,income_statement,EBITDA,2027,45.86072951932499
+ATT_20260415_202355_UTC,custom,income_statement,EBITDA,2028,46.642402073834994
+ATT_20260415_202355_UTC,custom,income_statement,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,custom,income_statement,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,custom,income_statement,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,custom,income_statement,EBIT,2026,24.28275062
+ATT_20260415_202355_UTC,custom,income_statement,EBIT,2027,24.92151688164999
+ATT_20260415_202355_UTC,custom,income_statement,EBIT,2028,25.65332114060924
+ATT_20260415_202355_UTC,custom,income_statement,Interest Expense,2026,7.100822908854169
+ATT_20260415_202355_UTC,custom,income_statement,Interest Expense,2027,6.176159740301962
+ATT_20260415_202355_UTC,custom,income_statement,Interest Expense,2028,5.513305954805214
+ATT_20260415_202355_UTC,custom,income_statement,Pretax Income,2026,17.181927711145832
+ATT_20260415_202355_UTC,custom,income_statement,Pretax Income,2027,18.74535714134803
+ATT_20260415_202355_UTC,custom,income_statement,Pretax Income,2028,20.140015185804028
+ATT_20260415_202355_UTC,custom,income_statement,Taxes,2026,3.5222951807848952
+ATT_20260415_202355_UTC,custom,income_statement,Taxes,2027,3.842798213976346
+ATT_20260415_202355_UTC,custom,income_statement,Taxes,2028,4.128703113089825
+ATT_20260415_202355_UTC,custom,income_statement,Net Income,2026,13.659632530360938
+ATT_20260415_202355_UTC,custom,income_statement,Net Income,2027,14.902558927371684
+ATT_20260415_202355_UTC,custom,income_statement,Net Income,2028,16.011312072714205
+ATT_20260415_202355_UTC,custom,balance_sheet,Cash,2026,26.485068216734994
+ATT_20260415_202355_UTC,custom,balance_sheet,Cash,2027,19.055652562066776
+ATT_20260415_202355_UTC,custom,balance_sheet,Cash,2028,16.006380061447786
+ATT_20260415_202355_UTC,custom,balance_sheet,Accounts Receivable,2026,9.926965397260275
+ATT_20260415_202355_UTC,custom,balance_sheet,Accounts Receivable,2027,9.854575239178082
+ATT_20260415_202355_UTC,custom,balance_sheet,Accounts Receivable,2028,9.761537724737156
+ATT_20260415_202355_UTC,custom,balance_sheet,Inventory,2026,4.506319818493151
+ATT_20260415_202355_UTC,custom,balance_sheet,Inventory,2027,4.428927671779177
+ATT_20260415_202355_UTC,custom,balance_sheet,Inventory,2028,4.350096175151049
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Current Assets,2026,18.05314444
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Current Assets,2027,18.113061238724995
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Current Assets,2028,18.1387119176025
+ATT_20260415_202355_UTC,custom,balance_sheet,Net PP&E,2026,154.201
+ATT_20260415_202355_UTC,custom,balance_sheet,Net PP&E,2027,154.07253857277502
+ATT_20260415_202355_UTC,custom,balance_sheet,Net PP&E,2028,153.8134141168093
+ATT_20260415_202355_UTC,custom,balance_sheet,Goodwill & Intangibles,2026,67.99221
+ATT_20260415_202355_UTC,custom,balance_sheet,Goodwill & Intangibles,2027,67.3122879
+ATT_20260415_202355_UTC,custom,balance_sheet,Goodwill & Intangibles,2028,66.639165021
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Non-Current Assets,2026,146.7426
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Non-Current Assets,2027,146.008887
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Non-Current Assets,2028,145.278842565
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Assets,2026,427.9073078724884
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Assets,2027,418.84593018452404
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Assets,2028,413.9881475817478
+ATT_20260415_202355_UTC,custom,balance_sheet,Accounts Payable,2026,65.49184802876712
+ATT_20260415_202355_UTC,custom,balance_sheet,Accounts Payable,2027,65.42734060582875
+ATT_20260415_202355_UTC,custom,balance_sheet,Accounts Payable,2028,65.35260765459483
+ATT_20260415_202355_UTC,custom,balance_sheet,Short-Term Debt,2026,7.705474374538765
+ATT_20260415_202355_UTC,custom,balance_sheet,Short-Term Debt,2027,6.834194809868802
+ATT_20260415_202355_UTC,custom,balance_sheet,Short-Term Debt,2028,6.145010402745957
+ATT_20260415_202355_UTC,custom,balance_sheet,Long-Term Debt,2026,141.07320330035876
+ATT_20260415_202355_UTC,custom,balance_sheet,Long-Term Debt,2027,125.12166116503225
+ATT_20260415_202355_UTC,custom,balance_sheet,Long-Term Debt,2028,112.50394974952992
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Debt,2026,148.77867767489752
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Debt,2027,131.95585597490106
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Debt,2028,118.64896015227588
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Liabilities,2026,94.63481
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Liabilities,2027,93.22117490000004
+ATT_20260415_202355_UTC,custom,balance_sheet,Other Liabilities,2028,91.81800758600006
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Liabilities,2026,308.90533570366466
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Liabilities,2027,290.60437148072987
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Liabilities,2028,275.8195753928708
+ATT_20260415_202355_UTC,custom,balance_sheet,Retained Earnings,2026,24.236972168823783
+ATT_20260415_202355_UTC,custom,balance_sheet,Retained Earnings,2027,33.476558703794225
+ATT_20260415_202355_UTC,custom,balance_sheet,Retained Earnings,2028,43.40357218887703
+ATT_20260415_202355_UTC,custom,balance_sheet,Equity,2026,119.0019721688238
+ATT_20260415_202355_UTC,custom,balance_sheet,Equity,2027,128.24155870379423
+ATT_20260415_202355_UTC,custom,balance_sheet,Equity,2028,138.16857218887702
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Liabilities & Equity,2026,427.90730787248845
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Liabilities & Equity,2027,418.84593018452404
+ATT_20260415_202355_UTC,custom,balance_sheet,Total Liabilities & Equity,2028,413.9881475817478
+ATT_20260415_202355_UTC,custom,cash_flow,Net Income,2026,13.659632530360938
+ATT_20260415_202355_UTC,custom,cash_flow,Net Income,2027,14.902558927371684
+ATT_20260415_202355_UTC,custom,cash_flow,Net Income,2028,16.011312072714205
+ATT_20260415_202355_UTC,custom,cash_flow,D&A,2026,20.85011048
+ATT_20260415_202355_UTC,custom,cash_flow,D&A,2027,20.939212637675
+ATT_20260415_202355_UTC,custom,cash_flow,D&A,2028,20.98908093322575
+ATT_20260415_202355_UTC,custom,cash_flow,Change in Working Capital,2026,24.989418373013695
+ATT_20260415_202355_UTC,custom,cash_flow,Change in Working Capital,2027,0.025358083132795334
+ATT_20260415_202355_UTC,custom,cash_flow,Change in Working Capital,2028,0.07148538095763779
+ATT_20260415_202355_UTC,custom,cash_flow,CFO,2026,59.499161383374634
+ATT_20260415_202355_UTC,custom,cash_flow,CFO,2027,35.86712964817948
+ATT_20260415_202355_UTC,custom,cash_flow,CFO,2028,37.071878386897595
+ATT_20260415_202355_UTC,custom,cash_flow,Capex,2026,20.85011048
+ATT_20260415_202355_UTC,custom,cash_flow,Capex,2027,20.810751210449997
+ATT_20260415_202355_UTC,custom,cash_flow,Capex,2028,20.72995647726
+ATT_20260415_202355_UTC,custom,cash_flow,CFI,2026,-20.85011048
+ATT_20260415_202355_UTC,custom,cash_flow,CFI,2027,-20.810751210449997
+ATT_20260415_202355_UTC,custom,cash_flow,CFI,2028,-20.72995647726
+ATT_20260415_202355_UTC,custom,cash_flow,New Borrowing,2026,0.0
+ATT_20260415_202355_UTC,custom,cash_flow,New Borrowing,2027,0.0
+ATT_20260415_202355_UTC,custom,cash_flow,New Borrowing,2028,0.0
+ATT_20260415_202355_UTC,custom,cash_flow,Mandatory Debt Repayment,2026,3.47972
+ATT_20260415_202355_UTC,custom,cash_flow,Mandatory Debt Repayment,2027,3.7194669418724384
+ATT_20260415_202355_UTC,custom,cash_flow,Mandatory Debt Repayment,2028,3.958675679247032
+ATT_20260415_202355_UTC,custom,cash_flow,Optional Debt Repayment,2026,21.727602325102485
+ATT_20260415_202355_UTC,custom,cash_flow,Optional Debt Repayment,2027,13.103354758124024
+ATT_20260415_202355_UTC,custom,cash_flow,Optional Debt Repayment,2028,9.348220143378162
+ATT_20260415_202355_UTC,custom,cash_flow,Net Debt Issuance,2026,-25.207322325102485
+ATT_20260415_202355_UTC,custom,cash_flow,Net Debt Issuance,2027,-16.82282169999646
+ATT_20260415_202355_UTC,custom,cash_flow,Net Debt Issuance,2028,-13.306895822625195
+ATT_20260415_202355_UTC,custom,cash_flow,Dividends,2026,5.190660361537156
+ATT_20260415_202355_UTC,custom,cash_flow,Dividends,2027,5.66297239240124
+ATT_20260415_202355_UTC,custom,cash_flow,Dividends,2028,6.084298587631397
+ATT_20260415_202355_UTC,custom,cash_flow,CFF,2026,-30.39798268663964
+ATT_20260415_202355_UTC,custom,cash_flow,CFF,2027,-22.4857940923977
+ATT_20260415_202355_UTC,custom,cash_flow,CFF,2028,-19.391194410256592
+ATT_20260415_202355_UTC,custom,cash_flow,Delta Cash,2026,8.251068216734993
+ATT_20260415_202355_UTC,custom,cash_flow,Delta Cash,2027,-7.429415654668217
+ATT_20260415_202355_UTC,custom,cash_flow,Delta Cash,2028,-3.049272500618992
+ATT_20260415_202355_UTC,custom,cash_flow,Ending Cash,2026,26.485068216734994
+ATT_20260415_202355_UTC,custom,cash_flow,Ending Cash,2027,19.055652562066776
+ATT_20260415_202355_UTC,custom,cash_flow,Ending Cash,2028,16.006380061447786

@@ -1,0 +1,7 @@
+RunID,Scenario,ScenarioNotes,SelectedByDashboard,DashboardScenarioRequest,CustomOverridesApplied
+ATT_20260415_202355_UTC,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,False,custom,{}
+ATT_20260415_202355_UTC,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",False,custom,{}
+ATT_20260415_202355_UTC,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",False,custom,{}
+ATT_20260415_202355_UTC,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",False,custom,{}
+ATT_20260415_202355_UTC,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",False,custom,{}
+ATT_20260415_202355_UTC,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,True,custom,{}

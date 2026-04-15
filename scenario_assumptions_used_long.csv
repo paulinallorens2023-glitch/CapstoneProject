@@ -1,0 +1,379 @@
+Year,Scenario,ScenarioNotes,RunID,SelectedByDashboard,DashboardScenarioRequest,AssumptionName,AssumptionValue
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.03
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.025
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.02
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,-0.020000000000000004
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,-0.025
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,-0.030000000000000002
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.08
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.07500000000000001
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.07
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.03
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.025
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.02
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.03
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.025
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,MobilityGrowth,0.02
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,MobilityGrowth,0.03
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,MobilityGrowth,0.025
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,MobilityGrowth,0.02
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.085
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.075
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.065
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.135
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.125
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.115
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.035
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.024999999999999994
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.015
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.085
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.075
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.065
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.085
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.075
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,BusinessWirelineGrowth,-0.065
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,BusinessWirelineGrowth,-0.085
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,BusinessWirelineGrowth,-0.075
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,BusinessWirelineGrowth,-0.065
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.025
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.02
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.015
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,-0.025
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,-0.030000000000000002
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,-0.035
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.07500000000000001
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.07
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.065
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.025
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.02
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.015
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.025
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.02
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,ConsumerWirelineGrowth,0.015
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,ConsumerWirelineGrowth,0.025
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,ConsumerWirelineGrowth,0.02
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,ConsumerWirelineGrowth,0.015
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.02
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.02
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.015
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.07
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.07
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.065
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,0.030000000000000002
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,0.030000000000000002
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,0.035
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.02
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.02
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.015
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.02
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.02
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,LatinAmericaGrowth,-0.015
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,LatinAmericaGrowth,-0.02
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,LatinAmericaGrowth,-0.02
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,LatinAmericaGrowth,-0.015
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,-0.05
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,-0.05
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,-0.05
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.05
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.05
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.05
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,OtherRevenueGrowth,0.0
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,OtherRevenueGrowth,0.0
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,OtherRevenueGrowth,0.0
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,OtherRevenueGrowth,0.0
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.355
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.357
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.36
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.34299999999999997
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.345
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.348
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.365
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.367
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.37
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.33699999999999997
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.33899999999999997
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.34199999999999997
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.353
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.355
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,EBITDA_Margin,0.358
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,EBITDA_Margin,0.355
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,EBITDA_Margin,0.357
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,EBITDA_Margin,0.36
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.164
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.163
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.162
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.164
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.163
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.162
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.164
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.163
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.162
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.164
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.163
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.162
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.164
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.163
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DandA_PctRevenue,0.162
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DandA_PctRevenue,0.164
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DandA_PctRevenue,0.163
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DandA_PctRevenue,0.162
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.575
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.572
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.57
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.581
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.578
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.576
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.57
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.567
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.565
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.585
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.582
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.58
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.575
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.572
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,COGS_PctRevenue,0.57
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,COGS_PctRevenue,0.575
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,COGS_PctRevenue,0.572
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,COGS_PctRevenue,0.57
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.232
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.231
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.23
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.23500000000000001
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.234
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.233
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.23
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.229
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.228
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.23600000000000002
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.23500000000000001
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.234
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.232
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.231
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,SGA_PctRevenue,0.23
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,SGA_PctRevenue,0.232
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,SGA_PctRevenue,0.231
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,SGA_PctRevenue,0.23
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,TaxRate,0.205
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,TaxRate,0.205
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,TaxRate,0.205
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,TaxRate,0.205
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.164
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.162
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.16
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.159
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.157
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.155
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.167
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.165
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.163
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.166
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.164
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.162
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.164
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.162
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,Capex_PctRevenue,0.16
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,Capex_PctRevenue,0.164
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,Capex_PctRevenue,0.162
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,Capex_PctRevenue,0.16
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DSO,28.5
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DSO,28.0
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DSO,27.5
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DSO,30.0
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DSO,29.5
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DSO,29.0
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DSO,27.5
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DSO,27.0
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DSO,26.5
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DSO,28.5
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DSO,28.0
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DSO,27.5
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DSO,28.5
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DSO,28.0
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DSO,27.5
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DSO,28.5
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DSO,28.0
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DSO,27.5
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DIO,22.5
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DIO,22.0
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DIO,21.5
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DIO,23.5
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DIO,23.0
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DIO,22.5
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DIO,22.0
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DIO,21.5
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DIO,21.0
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DIO,22.5
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DIO,22.0
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DIO,21.5
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DIO,22.5
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DIO,22.0
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DIO,21.5
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DIO,22.5
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DIO,22.0
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DIO,21.5
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DPO,327.0
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DPO,325.0
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DPO,323.0
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DPO,324.0
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DPO,322.0
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DPO,320.0
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DPO,329.0
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DPO,327.0
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DPO,325.0
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DPO,327.0
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DPO,325.0
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DPO,323.0
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DPO,327.0
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DPO,325.0
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DPO,323.0
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DPO,327.0
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DPO,325.0
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DPO,323.0
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.142
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.141
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.14
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.142
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.141
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.14
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.142
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.141
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.14
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.142
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.141
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.14
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.142
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.141
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,OtherCurrentAssets_PctRevenue,0.14
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,OtherCurrentAssets_PctRevenue,0.142
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,OtherCurrentAssets_PctRevenue,0.141
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,OtherCurrentAssets_PctRevenue,0.14
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,InterestRate,0.044
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,InterestRate,0.044
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,InterestRate,0.044
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.047
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.047
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.047
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.041999999999999996
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.041999999999999996
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.041999999999999996
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.044
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.044
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.044
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.059
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.059
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,InterestRate,0.059
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,InterestRate,0.044
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,InterestRate,0.044
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,InterestRate,0.044
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DividendPayoutRatio,0.38
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DividendPayoutRatio,0.38
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DividendPayoutRatio,0.38
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DividendPayoutRatio,0.38
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,CashFloor,12000000000.0
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,CashFloor,14000000000.0
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,CashFloor,14000000000.0
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,CashFloor,14000000000.0
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,CashFloor,12000000000.0
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,CashFloor,12000000000.0
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,CashFloor,12000000000.0
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,TargetShortDebtShare,0.051791523455910246
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,TargetShortDebtShare,0.051791523455910246
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,TargetShortDebtShare,0.051791523455910246
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,TargetShortDebtShare,0.051791523455910246
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.02
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.025
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.03
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.015
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.02
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.024999999999999998
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.025
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.030000000000000002
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.034999999999999996
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.02
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.025
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.03
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.02
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.025
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,DebtAmortizationPct,0.03
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DebtAmortizationPct,0.02
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DebtAmortizationPct,0.025
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,DebtAmortizationPct,0.03
+2026,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.6
+2027,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.65
+2028,base,Reference case using segment-led revenue growth and normalized AT&T financial ratios.,ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.7
+2026,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.5
+2027,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.55
+2028,downside,"Revenue growth cut by 5 percentage points versus base, with softer margins, weaker working capital, and reduced debt paydown capacity.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.6
+2026,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.7
+2027,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.75
+2028,upside,"Revenue growth boosted by 5 percentage points versus base, with better mix, margins, and faster deleveraging.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.7999999999999999
+2026,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.44999999999999996
+2027,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.5
+2028,energy_cost_strain,"Higher energy and operating input costs compress margin, weaken EBITDA/CFO, and slow deleveraging.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.5499999999999999
+2026,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.39999999999999997
+2027,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.45
+2028,interest_rate_strain,"Higher rates increase interest burden and preserve more liquidity, pressuring earnings and leverage.",ATT_20260415_202355_UTC,False,custom,ExcessCashSweepPct,0.49999999999999994
+2026,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,ExcessCashSweepPct,0.6
+2027,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,ExcessCashSweepPct,0.65
+2028,custom,User-customizable scenario from the CUSTOM_OVERRIDES dictionary.,ATT_20260415_202355_UTC,True,custom,ExcessCashSweepPct,0.7

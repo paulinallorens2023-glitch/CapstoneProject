@@ -1,0 +1,2 @@
+RunID,TimestampUTC,ChangeType,Description
+ATT_20260415_202355_UTC,2026-04-15 20:23:56 UTC,Dashboard-backend refactor,"Converted the notebook into a more explicit backend with input schema, payload validation, one dashboard input contract, scenario-run helpers, and authoritative payload / assumptions exports."
